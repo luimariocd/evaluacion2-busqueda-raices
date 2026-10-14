@@ -5,8 +5,8 @@ import os
 from metodos import biseccion, falsa_posicion, punto_fijo, secante, newton_raphson, newton_mejorado
 
 # Rutas relativas asumiendo ejecución desde src/scripts/
-PATH_DATA = "../data"
-PATH_ASSETS = "../assets"
+PATH_DATA = "src/data"
+PATH_ASSETS = "src/assets"
 
 # Definición del ambiente controlado para las 6 funciones
 funciones = {
