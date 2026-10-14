@@ -1,4 +1,7 @@
 # Evaluación 2: Búsqueda de Raíces
+**Integrantes:**
+- Luismario Huenuhueque (RUT: 21.895.671-8)
+- Nicolás Muñoz (RUT: 21.964.601-1)
 
 Este repositorio contiene la implementación y comparación de seis métodos numéricos para la búsqueda de raíces, aplicados sobre diferentes tipos de funciones matemáticas.
 
