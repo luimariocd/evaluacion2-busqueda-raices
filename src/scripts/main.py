@@ -102,4 +102,4 @@ with open(ruta_csv_resumen, mode='w', newline='') as file:
     writer.writerow(["Funcion", "Metodo", "Iteraciones", "Raiz Encontrada", "Error Final"])
     writer.writerows(resumen_convergencia)
 
-print("¡Ejecución completada! Archivos generados en 'data/' y 'assets/'.")
+print("Ejecución completada Archivos generados en 'data/' y 'assets/'.")
